@@ -1,4 +1,4 @@
-🐼央视频道🐼,#genre#
+[央视频道],#genre#
 
 //============================源更新======================================
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -160,7 +160,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 
 
-🌴卫视频道🌴,#genre#
+[卫视频道],#genre#
 北京卫视,http://127.0.0.1
 东方卫视,http://127.0.0.1
 天津卫视,http://127.0.0.1
@@ -428,7 +428,7 @@ CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000
 
 
 
-🌿生活频道🌿,#genre#
+[生活频道],#genre#
 爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 纪实人文,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 纪实人文,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?IAS
@@ -631,13 +631,13 @@ IPTV5,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000600000000000004
 
 
 
-☀影视轮播☀,#genre#
+[影视轮播],#genre#
 
 李子柒,http://lxajh.top/tv/douyu.php?id=2901080
 
 
 
-🦊央视春晚🦊,#genre#
+[央视春晚],#genre#
 
 春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
@@ -671,7 +671,7 @@ IPTV5,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000600000000000004
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 
 
-🍀电影频道🍀,#genre#
+[电影频道],#genre#
 
 电影_星爷,https://live.metshop.top/huya/11342412
 电影_英叔,https://live.metshop.top/huya/11342421
@@ -774,7 +774,7 @@ IPTV5,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000600000000000004
 解说_恐怖电影解说,https://live.metshop.top/huya/16741179
 
 
-🐸直播中国🐸,#genre#
+[直播中国],#genre#
 
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
@@ -946,7 +946,7 @@ IPTV5,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000600000000000004
 福建武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 
 
-💮现代MV💮,#genre#
+[现代MV],#genre#
 
 堕-戴羽彤,https://vd3.bdstatic.com/mda-pe8yinxx1y1dpsxk/720p/h264/1683673132967321820/mda-pe8yinxx1y1dpsxk.mp4
 海市蜃楼 - 一颗狼星,https://vd3.bdstatic.com/mda-pcp5fx5bfrctx9pu/sc/cae_h264/1679635523924099179/mda-pcp5fx5bfrctx9pu.mp4
@@ -1175,7 +1175,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 百视爱乐,https://bp-caster.bestv.com.cn/930/1/video.m3u8
 
 
-🐯怀旧MV🐯,#genre#
+[怀旧MV],#genre#
 
 BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv

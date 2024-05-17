@@ -25,8 +25,22 @@ CETV-1,http://127.0.0.1
 CETV-2,http://127.0.0.1
 CETV-3,http://127.0.0.1
 CETV-4,http://127.0.0.1
-CGTN英语,http://127.0.0.1
-CGTV纪录,http://127.0.0.1
+CGTN 英语,http://127.0.0.1
+CGTN 纪录,http://127.0.0.1
+CCTV卫生健康,http://127.0.0.1
+CCTV兵器科技,http://127.0.0.1
+CCTV电视指南,http://127.0.0.1
+CCTV第一剧场,http://127.0.0.1
+CCTV风云剧场,http://127.0.0.1
+CCTV风云音乐,http://127.0.0.1
+CCTV风云足球,http://127.0.0.1
+CCTV怀旧剧场,http://127.0.0.1
+CCTV女性时尚,http://127.0.0.1
+CCTV世界地理,http://127.0.0.1
+CCTV央视台球,http://127.0.0.1
+CCTV高尔夫网球,http://127.0.0.1
+CCTV央视文化精品,http://127.0.0.1
+
 
 
 
@@ -185,8 +199,8 @@ CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+CGTN 英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN 纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 
 
@@ -223,8 +237,8 @@ CCTV女性时尚,http://111.224.83.68:1024/rtp/239.254.201.228:7255
 CCTV世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGJ1P%2BMWIbO7dcr69BOnWr6VtCf%2FZIGsCvoR9H9LBuL%2Bb%2BgUMie3w0VElI8jl5lx%2Fxs
 CCTV央视文化精品,http://111.224.83.68:1024/rtp/239.254.201.229:7260
 CCTV央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIhhbZzYqwcgjvvRZLVRTRUXFxC%2BlDuTkdKHPnzcR1DomGVyhFGbQRmDDrX7x%2FDZL0
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+CGTN 英语,https://live.cgtn.com/1000/prog_index.m3u8
+CGTN 纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 //黑龙江移动
 
@@ -269,8 +283,8 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CGTN英语,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/index.m3u8
-CGTN纪录,http://[2409:8087:1a0a:df::404a]/wh7f454c46tw2880014704_1346251883/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1713110715&from=4&hms_devid=1212&online=1713110715&vqe=3
+CGTN 英语,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/index.m3u8
+CGTN 纪录,http://[2409:8087:1a0a:df::404a]/wh7f454c46tw2880014704_1346251883/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1713110715&from=4&hms_devid=1212&online=1713110715&vqe=3
 
 
 
@@ -327,8 +341,8 @@ CCTV世界地理,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn
 CCTV卫生健康,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 CCTV央视文化精品,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 CCTV央视台球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CGTN英语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
-CGTN纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
+CGTN 英语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
+CGTN 纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
 
 
 

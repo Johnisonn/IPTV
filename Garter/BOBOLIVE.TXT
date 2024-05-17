@@ -26,7 +26,7 @@ CETV-2,http://127.0.0.1
 CETV-3,http://127.0.0.1
 CETV-4,http://127.0.0.1
 CGTN英语,http://127.0.0.1
-CGTV记录,http://127.0.0.1
+CGTV纪录,http://127.0.0.1
 
 
 
@@ -186,7 +186,7 @@ CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN记录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
 
 
@@ -269,7 +269,7 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 CCTV-17 农业农村,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8
 CCTV-5+ 体育赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/index.m3u8
 CCTV-4K 超高清,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CGTN,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/index.m3u8
+CGTN英语,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/index.m3u8
 CGTN纪录,http://[2409:8087:1a0a:df::404a]/wh7f454c46tw2880014704_1346251883/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8?icpid=88888888&RTS=1713110715&from=4&hms_devid=1212&online=1713110715&vqe=3
 
 
@@ -327,7 +327,7 @@ CCTV世界地理,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn
 CCTV卫生健康,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
 CCTV央视文化精品,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 CCTV央视台球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
-CGTN,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
+CGTN英语,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
 CGTN纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
 
 

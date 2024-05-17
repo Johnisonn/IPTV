@@ -32,7 +32,7 @@ CGTV记录,http://127.0.0.1
 
 
 
-//============================源更新======================================
+//============================FMM================================
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-1 综合,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
 CCTV-1 综合,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
@@ -294,39 +294,39 @@ CCTV-5+ 体育赛事,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/000000010000000
 
 //IPV4
 
-CCTV-1,http://61.54.14.232:9801/tsfile/live/1001_1.m3u8
-CCTV-2,http://61.54.14.232:9801/tsfile/live/1002_1.m3u8
-CCTV-3,http://61.54.14.232:9801/tsfile/live/1003_1.m3u8
-CCTV-4,http://61.54.14.232:9801/tsfile/live/1004_1.m3u8
-CCTV-5,http://61.54.14.232:9801/tsfile/live/1005_1.m3u8
-CCTV-6,http://61.54.14.232:9801/tsfile/live/1006_1.m3u8
-CCTV-7,http://61.54.14.232:9801/tsfile/live/1007_1.m3u8
-CCTV-8,http://61.54.14.232:9801/tsfile/live/1008_1.m3u8
-CCTV-9,http://61.54.14.232:9801/tsfile/live/1009_1.m3u8
-CCTV-10,http://61.54.14.232:9801/tsfile/live/1010_1.m3u8
-CCTV-11,http://61.54.14.232:9801/tsfile/live/1011_1.m3u8
-CCTV-12,http://61.54.14.232:9801/tsfile/live/1012_1.m3u8
-CCTV-13,http://61.54.14.232:9801/tsfile/live/1013_1.m3u8
-CCTV-14,http://61.54.14.232:9801/tsfile/live/1014_1.m3u8
-CCTV-15,http://61.54.14.232:9801/tsfile/live/1015_1.m3u8
-CCTV-16,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
-CCTV-17,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
-CCTV-5+,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
-CCTV-4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
-CCTV-8K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
-CCTV-兵器科技,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV-电视指南,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-CCTV-第一剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
-CCTV-风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
-CCTV-风云音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
-CCTV-风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
-CCTV-高尔夫网球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
-CCTV-怀旧剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-女性时尚,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
-CCTV-世界地理,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
-CCTV-卫生健康,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
-CCTV-央视文化精品,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
-CCTV-央视台球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
+CCTV-1 综合,http://61.54.14.232:9801/tsfile/live/1001_1.m3u8
+CCTV-2 财经,http://61.54.14.232:9801/tsfile/live/1002_1.m3u8
+CCTV-3 综艺,http://61.54.14.232:9801/tsfile/live/1003_1.m3u8
+CCTV-4 中文国际,http://61.54.14.232:9801/tsfile/live/1004_1.m3u8
+CCTV-5 体育,http://61.54.14.232:9801/tsfile/live/1005_1.m3u8
+CCTV-6 电影,http://61.54.14.232:9801/tsfile/live/1006_1.m3u8
+CCTV-7 国防军事,http://61.54.14.232:9801/tsfile/live/1007_1.m3u8
+CCTV-8 电视剧,http://61.54.14.232:9801/tsfile/live/1008_1.m3u8
+CCTV-9 纪录,http://61.54.14.232:9801/tsfile/live/1009_1.m3u8
+CCTV-10 科教,http://61.54.14.232:9801/tsfile/live/1010_1.m3u8
+CCTV-11 戏曲,http://61.54.14.232:9801/tsfile/live/1011_1.m3u8
+CCTV-12 社会与法,http://61.54.14.232:9801/tsfile/live/1012_1.m3u8
+CCTV-13 新闻,http://61.54.14.232:9801/tsfile/live/1013_1.m3u8
+CCTV-14 少儿,http://61.54.14.232:9801/tsfile/live/1014_1.m3u8
+CCTV-15 音乐,http://61.54.14.232:9801/tsfile/live/1015_1.m3u8
+CCTV-16 奥林匹克,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575103.m3u8
+CCTV-17 农业农村,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
+CCTV-5+ 体育赛事,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
+CCTV-4K 超高清,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV-8K 超高清,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV兵器科技,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV电视指南,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
+CCTV第一剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
+CCTV风云剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513603.m3u8
+CCTV风云音乐,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+CCTV风云足球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012514203.m3u8
+CCTV高尔夫网球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
+CCTV怀旧剧场,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV女性时尚,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513903.m3u8
+CCTV世界地理,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513303.m3u8
+CCTV卫生健康,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513503.m3u8
+CCTV央视文化精品,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
+CCTV央视台球,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513703.m3u8
 CGTN,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575003.m3u8
 CGTN纪录,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022574703.m3u8
 

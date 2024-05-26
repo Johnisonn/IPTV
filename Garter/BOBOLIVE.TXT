@@ -354,6 +354,12 @@ CCTV-15 音乐,http://61.54.14.232:9801/tsfile/live/1015_1.m3u8
 安多卫视,http://127.0.0.1
 康巴卫视,http://127.0.0.1
 农林卫视,http://127.0.0.1
+河北影视剧,https://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=1716739314&k=e642cbff79e26eb2a6c763cdd64c376f
+河北公共,https://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1716739318&k=9b0aca5ab27b2de22f65f8a46bf02981
+河北农民,https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1716739421&k=4923f590276152f6fcafa27ddec36d2f
+河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1716739684&k=3ac2d9cf06b800ed92d357219d981b8c
+河北少儿科教,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1716739755&k=b6cd2cc48136f0cf7fbd0ea5cb31bcaa
+河北经济生活,https://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1716739826&k=ed4856b3c7564cd86a1eeccc396dd9cb
 
 //////////////////////////FMM-卫视-2024-05-26///////////////////////////17///
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8

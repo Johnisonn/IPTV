@@ -141,7 +141,9 @@
       "海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说"]
     },
 
-
+{"key":"haiwaikan","name":"🛝海看┃采集","type":1,"api":"https://haiwaikan.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["国产剧","韩剧","日剧","台剧","泰剧","港剧","欧美剧","冒险片","剧情片","动作片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","歌舞片","灾难片","爱情片","犯罪片","科幻片","纪录片","经典片","动画电影","韩国综艺","国产综艺","日本综艺","欧美综艺","日本动漫","国产动漫","欧美动漫"]},
+{"key":"360","name":"🛝360┃采集","type":1,"api":"https://360zy.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
+{"key":"爱坤","name":"🛝爱坤┃采集","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod?","searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","爽文短剧"]},
 
 
 
@@ -173,7 +175,19 @@
  {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
  
  
- 
+ /////////////////////////////////////////////////////////
+
+{"key":"Wexxpgtv","name":"🍎红富士┃App","type":3,"api":"csp_Wexxpgtv","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"api":"csp_Wexhuaruitv","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexkukantv","name":"😁看呗┃App","type":3,"api":"csp_Wexkukantv","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"WexTiantianys","name":"🌤️明天┃直连","type":3,"api":"csp_WexTiantianys","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Fangniu4k","name":"👎放牛┃App","type":3,"api":"csp_WexFangniu4k","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexxiongdiys","name":"👬基友┃App","type":3,"api":"csp_Wexxiongdiys","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexwencai","name":"🎇文才┃直连","type":3,"api":"csp_Wexwencai","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"Wexshandian","name":"⚡️闪电┃直连","type":3,"api":"csp_Wexshandian","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"mingriyingshi","name":"☀️明日┃App","type":3,"api":"csp_WexMingriys","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+{"key":"WexShijuedy","name":"👓看看┃直连","type":3,"api":"csp_WexShijuedy","jar":"./PantyHose/spider/wex.jar","searchable":1,"changeable":1},
+
  
 
     {
@@ -560,41 +574,7 @@
                   "ratio": 3.8
                 }
     },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🏆优酷┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🐧腾讯┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🥭芒果┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "🕒360┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/360影视.js"
-    },
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🥔豆瓣┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/frame/drpy.js"
-    },
+
     {
       "key": "七夜",
       "name": "🔎七夜┃搜索",
@@ -667,31 +647,8 @@
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/光年.json"
-    },
-    {
-      "key": "hamster",
-      "name": "Hamster┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext":"./PantyHose/lib/hamster.json"    
-    },
-    {
-      "key": "BBV",
-      "name": "BBV┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/JunYu.jar",
-      "ext": "./PantyHose/lib/bondage.json"
-    },
-    {
-      "key": "bdgvl",
-      "name": "Valley┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/vally.json"    
     }
+
 
 
 

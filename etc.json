@@ -4,30 +4,6 @@
   "sites": [
 
     {
-      "key": "索尼",
-      "name": "🛒索尼2┃采集",
-      "type": 1,"playerType": 2,"playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "categories":
-      ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧", "韩剧", 
-      "日剧", "港剧", "台剧", "泰剧","记录片","海外剧","大陆综艺","日韩综艺","港台综艺","欧美综艺","足球","影视解说","国产动漫"]
-    },
-    
-    {
-      "key": "drpy_js_量子资源",
-      "name": "🛒量子[js]┃采集",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/量子资源.js"
-    },
-    {
-      "key": "zxzj",
-      "name": "📶在线┃快线",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_Zxzj",
-      "ext": "https://www.zxzj.pro/"
-    },
-    {
       "key": "drpy_js_奇珍异兽",
       "name": "🥝爱奇艺┃大厂",
       "type": 3,
@@ -41,112 +17,131 @@
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/菜狗.js"
     },
+    {
+      "key": "drpy_js_优酷",
+      "name": "🏆优酷┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/优酷.js"
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "🐧腾讯┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/腾云驾雾.js"
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "🥭芒果┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/百忙无果.js"
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "🕒360┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/lib/360影视.js"
+    },
+    {
+      "key": "drpy_js_豆瓣",
+      "name": "🥔豆瓣┃大厂",
+      "type": 3,
+      "api": "./PantyHose/frame/drpy2.min.js",
+      "ext": "./PantyHose/frame/drpy.js"
+    },
+    {
+        "key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"searchable":1,"changeable":1,
+        "api":"csp_Wexhuaruitv",
+        "jar":"./PantyHose/spider/wex.jar"
+    },
+    {
+        "key":"WexTiantianys","name":"🌤️天天┃直连","type":3,"searchable":1,"changeable":1,
+        "api":"csp_WexTiantianys",
+        "jar":"./PantyHose/spider/wex.jar"
+    },
+    {
+        "key":"Wexxiongdiys","name":"👬基友┃App","type":3,"searchable":1,"changeable":1,
+        "api":"csp_Wexxiongdiys",
+        "jar":"./PantyHose/spider/wex.jar"
+    },
+    {
+        "key":"mingriyingshi","name":"☀️明日┃App","type":3,"searchable":1,"changeable":1,
+        "api":"csp_WexMingriys",
+        "jar":"./PantyHose/spider/wex.jar"
+    },
+    {
+        "key":"WexShijuedy","name":"👓看看┃直连","type":3,"searchable":1,"changeable":1,
+        "api":"csp_WexShijuedy",
+        "jar":"./PantyHose/spider/wex.jar"
+    },
 
-    
-    
-    
-    
-    
+////////////////////////////////
     {
-      "key": "央视频",
-      "name": "央视频┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                //"主页url":"https://www.yangshipin.cn/#/tv/home/",
-                //"分类url":"https://www.yangshipin.cn/#/tv/home?pid={cateId}",
-                //"分类":"CCTV4K$600002264#CCTV1$600001859#CCTV2$600001800#CCTv3$600001801",
-                "直接播放":"1",
-                "数组":"class=\"logo_left\"&&class=\"logo_right\"",
-                "图片":"src=\"&&\""
-                //"标题":"title=\"&&\"",
-                //"链接":"'https://www.yangshipin.cn/#/video/home?vid='+src=*videoPic/&&/2014*"
-              } 
-    },
-    {
-      "key": "CCTV",
-      "name": "CCTV┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                "主页url":"https://tv.cctv.com/live/",
-                "分类url":"https://tv.cctv.com/live/{cateId}/",
-                "直接播放":"1",
-                "分类":"CCTV1$cctv1#CCTV2$cctv2#CCTV3$cctv3",
-                "数组":"<div class=\"image\">&&</li>",
-                "图片":"src=\"&&\"",
-                "标题":"class=\"title\">*target=\"_blank\">&&</a>",
-                "链接":"href=\"&&\""
-              }
-    },
-    {
-      "key": "villa",
-      "name": "villa┃TEST",
+      "key": "BDSMvilla",
+      "name": "Villa┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                "分类url":"https://bdsmvilla.com/category/{cateId}?page={catePg}",
-                "分类":"bondage$bondage#chinese$chinese-bdsm",
-
-                "数组":"class=\"card-img-top vidthumb\"&&class=\"likedcalc d-inline-block\"",
-                "图片":"src=\"&&\"",
-                "标题":"class=\"card-title titlesize\">&&</h6>",
-                "链接":"href=\"&&\""
-
-                //"直接播放":"1"
-                //"嗅探词":"webm#mp4#m3u8"
-              }
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
+    },
+    {
+      "key": "aaxx",
+      "name": "Aaxx┃影视",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
+    },
+    {
+      "key": "aV",
+      "name": "IAV┃影视",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
+    },
+    {
+      "key": "bdgvl",
+      "name": "Valley┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/vally.json"    
+    },
+    {
+      "key": "hamster",
+      "name": "Hamster┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar": "./PantyHose/spider/HCCX.jar",
+      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
+    },
+    {
+      "key": "BBV",
+      "name": "BBV┃TEST",
+      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+      "api": "csp_XBPQ",
+      "jar":"./PantyHose/spider/JunYu.jar",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bondage.json"
     },
     {
       "key": "freesm",
-      "name": "freebd┃TEST",
+      "name": "Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
       "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                "主页url":"https://freebdsmxxx.org/",
-                "分类url":"https://freebdsmxxx.org/tags/{cateId}/page/{catePg}/",
-                "分类":"NippleClamps$Nipple+Clamps#Nosebondage$Nosebondage#Metal$Metal+Bondage#asian$asian-bdsm#ElectricPlay$Electric+Play#Hogtie$Hogtie#Gags$Gags#HighHeels$High+Heels#Predicament$Predicament#NippleTorture$Nipple+torture#Bound$Bound",
-
-                "数组":"class=\"shortstory\">&&class=\"quality\"",
-                "图片":"src=\"&&\"",
-                "标题":"title=\"&&\"",
-                "链接":"href=\"&&\"",
-
-                "直接播放":"1"
-                //"嗅探词":"webm#mp4#m3u8"
-              }
-    },
-    {
-      "key": "看剧吧",
-      "name": "看剧┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": {
-                "主页url":"https://kanjuda.com/",
-                "分类url":"https://kanjuda.com/cat/?{cateId}.html",
-                "分类":"电影$1#电视剧$2#综艺$3#纪录片$11#喜剧片$10",
-                "数组":"class=\"myui-vodlist__thumb\"&&class=\"lazyload\"",
-                "图片":"src=\"&&\"",
-                "标题":"title=\"&&\"",
-                "链接":"href=\"&&\"",
-                "搜索模式":"1",
-                "搜索url": "https://kanjuda.com/search.php?searchword={wd}",
-                "搜索数组": "class=\"thumb\">&&class=\"play hidden-xs\"",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "线路数组":"class=\"nav nav-tabs active\"&&</ul>",
-                "播放数组":"class=\"col-md-8 col-sm-6 col-xs-4\"&&</li>"
-            }
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
     }
 
-
-
-
     
+
+
+
   ]
+
+
+
+}

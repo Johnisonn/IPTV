@@ -1,0 +1,15 @@
+{
+    "主页url":"https://www.sxcse.com",
+    "分类url":"/{cateId}.html",
+    "分类":"电影$tt-film#电视剧$tt-television#动漫$tt-cartoon#综艺$tt-variety",
+    "数组":"class=\"hl-item-thumb hl-lazy\"&&</span>",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+    "搜索模式": "1",
+ 	"搜索url":"https://www.sxcse.com/ss/?wd={wd}&submit=",
+    "搜索数组":"class=\"hl-item-thumb hl-lazy\"&&class=\"hl-pic-icon hl-hidden-xs\"",                 
+    "搜索标题":"title=\"&&\"",
+    "搜索图片":"data-original=\"&&\""
+
+}

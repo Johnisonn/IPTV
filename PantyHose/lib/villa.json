@@ -9,10 +9,10 @@
 
         "搜索模式": "1",
         "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
-        "搜索数组": "class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
-        "搜索图片": "poster=\"&&\"",
-        "搜索标题": "class=\"card-title titlesize\">&&</h6>",
-        "搜索链接": "href=\"&&\"",
+        //"搜索数组": "class=\"card colorbackground vidholder d-inline-block\"&&</h6>",
+        //"搜索图片": "poster=\"&&\"",
+        //"搜索标题": "class=\"card-title titlesize\">&&</h6>",
+        //"搜索链接": "href=\"&&\"",
         "直接播放": "1"
 
 

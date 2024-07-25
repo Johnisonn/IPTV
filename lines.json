@@ -1,16 +1,18 @@
 {
 "storeHouse":
 [
-{"sourceName":"🌹jihulab1仓(大佬)🌹","sourceUrl":"https://jihulab.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse1.json"},
-{"sourceName":"🦊jihulab2仓(魔改)🦊","sourceUrl":"https://jihulab.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse2.json"},
-{"sourceName":"🐯jihulab3仓(其他)🐯","sourceUrl":"https://jihulab.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse3.json"},
-{"sourceName":"🐯jihulab4仓(毒盒)🐯","sourceUrl":"https://jihulab.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse4.json"},
-{"sourceName":"🐯jihulab5仓(欧歌)🐯","sourceUrl":"http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"},
-{"sourceName":"🐯jihulab6仓(云星)🐯","sourceUrl":"http://jk.itvbox.cc:66/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"🐯jihulab7仓(吾爱)🐯","sourceUrl":"http://52bsj.vip:98/wuaihouse"},
-{"sourceName":"🐯jihulab8仓(运输车)🐯","sourceUrl":"https://weixine.net/api.json"},
-{"sourceName":"🐯jihulab9仓(绿茶18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/lc.txt"},
-{"sourceName":"🐯jihulab10仓(18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/store18.json"}
+{"sourceName":"🦊Gitee1仓(大佬)🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse1.json"},
+{"sourceName":"🦊Gitee2仓(备用)🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse2.json"},
+{"sourceName":"🐯Gitee3仓(其他)🐯","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse3.json"},
+{"sourceName":"🐯Gitee4仓(毒盒)🐯","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse4.json"},
+{"sourceName":"🐯Gitee5仓(魔改)🐯","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/StoreHouse5.json"},
+
+{"sourceName":"🐯Gitee6仓(欧歌)🐯","sourceUrl":"http://tv.nxog.top"},
+{"sourceName":"🐯Gitee7仓(云星)🐯","sourceUrl":"http://itvbox.cc/可视仓库"},
+{"sourceName":"🐯Gitee8仓(吾爱)🐯","sourceUrl":"http://52bsj.vip:98/wuaihouse"},
+{"sourceName":"🐯Gitee9仓(运输车)🐯","sourceUrl":"https://weixine.net/api.json"},
+{"sourceName":"🐯Gitee10仓(绿茶18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/lc.txt"},
+{"sourceName":"🐯Gitee11仓(18+)🐯","sourceUrl":"https://cyuan.netlify.app/tvbox/store18.json"}
 
 
 

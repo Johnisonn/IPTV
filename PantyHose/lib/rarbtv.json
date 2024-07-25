@@ -1,0 +1,25 @@
+{
+
+                "主页url":"https://www.rarbtv.cc/",
+                "数组":"class=\"module-item-pic\"&&class=\"module-item-content\"",
+                "图片":"data-original=\"&&\"",                
+                "标题":"title=\"&&\"",
+                "链接":"href=\"&&\"",
+
+
+                "分类url":"https://www.rarbtv.cc/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类":"电影$movie#电视剧$Series#综艺$variety#动漫$cartoon#短剧$duanju",
+              
+                "搜索模式":"1",
+                "搜索url": "https://www.rarbtv.cc/vod/search/page/{catePg}/wd/{wd}.html",
+                "搜索数组": "class=\"module-item-pic\"&&class=\"loading\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+
+
+                
+
+                "直接播放":"1"
+                //"嗅探词":"webm#mp4#m3u8"
+ }

@@ -1,0 +1,24 @@
+{
+                //"分类url":"https://www.gntv.top/index.php/vod/show/area/{area}/id/{class}/year/{year}.html",
+                "分类url":"https://www.gntv.top/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+                "分类":"动作$6#喜剧$7#爱情$10#剧情$11#犯罪$26#悬疑$27#纪录片$20#动画电影$21",
+                "数组":"class=\"public-list-exp\"&&class=\"public-play",
+                "图片":"data-src=\"&&\"",
+                "标题":"title=\"&&\"",
+                "链接":"href=\"&&\"",
+
+                //"直接播放":"1",
+                //"嗅探词":"webm",
+                "搜索模式":"0",
+                "搜索url": "https://www.gntv.top/index.php/vod/search.html?wd={wd}",
+                "搜索数组": "class=\"public-list-exp\"&&class=\"public-play",
+                "搜索图片": "data-src=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+
+                "线路数组":"class=\"swiper-wrapper\"&&</div>",
+                "线路标题":"data-form=\"&&\" class=\"vod-playerUrl"
+
+
+                //"简介": "itemprop=\"description\">&&</p>"
+}

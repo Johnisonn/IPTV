@@ -1,0 +1,12 @@
+{
+"分类url": "https://www.freeok.pro/v-type/{cateId}.html",
+"分类": "电影&剧集&动漫&综艺&短剧&少儿",
+"分类值": "1&2&3&4&12&5",
+"搜索模式": "1",
+"搜索url": "https://www.freeok.pro/v-so/-------------.html?wd={wd}",
+"搜索数组": "lazyload\"&&style>",
+"搜索副标题": "Freeok",
+"搜索标题": "alt=\"&&\"",
+"搜索链接": "href='&&'",
+"搜索图片": "scr='&&'"
+}

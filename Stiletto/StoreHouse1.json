@@ -3,12 +3,24 @@
 [
 {"name":"小波【GITEE】","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
 {"name":"小波【GITHUB】","url":"https://ghproxy.net/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
+{"name":"【TEST】","url":"https://gitee.com/johnisonn/tvbox/raw/main/test.json"},
 
 {"name":"★船新★","url":"http://router.bopop.buzz:9999/mdkdb.json"},
+{"name":"★LIU673★","url":"https://raw.kkgithub.com/liu673cn/box/main/m.json"},
 {"name":"★网友★","url":"https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json"},
 {"name":"★扫地僧★","url":"http://43.242.202.173:25253/tvbox/saodiseng.php?id=369258147"},
 
+{"name":"★小盒子★","url":"http://xhztv.top/xhz"},
+{"name":"★盒子4K★","url":"http://xhztv.top/4k.json"},
+{"name":"★摸鱼4K★","url":"http://我不是.摸鱼儿.top"},
+{"name":"★蕃茄库吧★","url":"http://giao.xn--kcr29o437a.top/"},
+{"name":"★云星日记★","url":"http://itvbox.cc/云星日记"},
+{"name":"★失眠的夜★","url":"http://清清.摸鱼儿.top"},
+{"name":"★小马影视★","url":"https://szyyds.cn/tv/x.json"},
 
+
+{"name":"★肥猫★","url":"http://肥猫.com"},
+{"name":"★道长★","url":"https://pastebin.com/raw/5NHaxyGR"},
 {"name":"★饭太硬★","url":"http://饭太硬.com/tv"},
 {"name":"★王二小★","url":"http://tvbox.xn--4kq62z5rby2qupq9ub.xyz/"},
 {"name":"★采妮丝★","url":"https://tv.xn--yhqu5zs87a.top"},

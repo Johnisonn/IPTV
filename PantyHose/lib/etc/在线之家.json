@@ -1,0 +1,9 @@
+ { 
+     "免嗅": "1", 
+     "播放标题": "&gt;&amp;&amp;&lt;", 
+     "副标题": "class=\"pic-text text-right\"&gt;&amp;&amp;", 
+     "播放数组": "class=\"stui-content__playlist&amp;&amp;", 
+     "分类": "电影$1#美剧$2#韩剧$3#日剧$4#泰剧$5#动漫$6", 
+     "分类url": "https://zxzj.vip/vodshow/{cateId}-{area}-------{catePg}---{year}.html", 
+     "筛选": "1" 
+     }

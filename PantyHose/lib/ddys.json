@@ -1,0 +1,9 @@
+{
+            "分类url":"https://www.dandanju.cc/type/{cateId}-{catePg}.html",
+            "分类":"电影$1#剧集$2#综艺$2#动漫$4",
+
+            "搜索模式": "1",
+            "搜索url": "https://www.dandanju.cc/search/{wd}----------{catePg}---.html"
+            
+           
+}

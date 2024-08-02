@@ -1,0 +1,9 @@
+{
+            "分类url":"https://www.freeok.vip/v-type/{cateId}.html",
+            "分类":"电影$1#剧集$2#动漫$2#综艺$4#少儿$5",
+
+            "搜索模式": "1",
+            "搜索url": "https://www.freeok.vip/so1so/{wd}----------{catePg}---.html"
+            
+            
+}

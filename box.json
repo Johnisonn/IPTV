@@ -248,6 +248,12 @@
         "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
+        "key": "rcsdhssc","name": "🎋立播┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/立播.json"
+    },
+    {
         "key": "FreeOK","name": "👌FrOK┃站点","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",

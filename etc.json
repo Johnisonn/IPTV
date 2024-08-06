@@ -1,139 +1,78 @@
 {
-  "spider": "./PantyHose/spider/FTY.jar",
-  
-  "sites": [
+    "spider": "./PantyHose/spider/HCCX.jar",
+    "wallpaper": "https://picsum.photos/1280/720/?blur=10",
+    "sites": [
 
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🥝爱奇艺┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "🐕搜狗┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/菜狗.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🏆优酷┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/优酷.js"
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "🐧腾讯┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/腾云驾雾.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🥭芒果┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/百忙无果.js"
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "🕒360┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/360影视.js"
-    },
-    {
-      "key": "drpy_js_豆瓣",
-      "name": "🥔豆瓣┃大厂",
-      "type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/frame/drpy.js"
-    },
-    {
-        "key":"Wexhuaruitv","name":"🌺花蕊┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexhuaruitv",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"WexTiantianys","name":"🌤️天天┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexTiantianys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"Wexxiongdiys","name":"👬基友┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_Wexxiongdiys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"mingriyingshi","name":"☀️明日┃App","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexMingriys",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
-    {
-        "key":"WexShijuedy","name":"👓看看┃直连","type":3,"searchable":1,"changeable":1,
-        "api":"csp_WexShijuedy",
-        "jar":"./PantyHose/spider/wex.jar"
-    },
+
+
 
 ////////////////////////////////
     {
       "key": "BDSMvilla",
-      "name": "Villa┃TEST",
+      "name": "Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
+      "ext": "./PantyHose/lib/villa.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
+    },
+    {
+      "key": "bdgvl",
+      "name": "Valley┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/valley.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/valley.json"    
+    },
+    {
+      "key": "hamster",
+      "name": "Hamster┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/hamster.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
+    },
+    {
+      "key": "PornLab",
+      "name": "PornLab┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/pornlab.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/pornlab.json"
     },
     {
       "key": "aaxx",
-      "name": "Aaxx┃影视",
+      "name": "AX┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
       "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/gaoaa.json"
     },
     {
       "key": "aV",
-      "name": "IAV┃影视",
+      "name": "IAV┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
+      "ext": "./PantyHose/lib/iav.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/iav.json"    
     },
-    {
-      "key": "bdgvl",
-      "name": "Valley┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/vally.json"    
-    },
-    {
-      "key": "hamster",
-      "name": "Hamster┃TEST",
-      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/hamster.json"    
-    },
+
+
+/////////////////////test///////////////
+
     {
       "key": "BBV",
       "name": "BBV┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar":"./PantyHose/spider/JunYu.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bondage.json"
+      "ext": "./PantyHose/lib/bbv.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bbv.json"
     },
     {
       "key": "freesm",
       "name": "Freebd┃TEST",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
+      "ext": "./PantyHose/lib/freebd.json"
+             //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/freebd.json"
     }
 
     

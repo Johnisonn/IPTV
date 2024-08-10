@@ -1,6 +1,6 @@
 {
   "spider": "./PantyHose/spider/FTY.jar",
-  //"wallpaper": "https://bing.img.run/rand.php",
+  "wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
       "name": "BOBO",

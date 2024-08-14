@@ -1,9 +1,24 @@
 {
-            "分类url":"https://www.dandanju.cc/type/{cateId}-{catePg}.html",
-            "分类":"电影$1#剧集$2#综艺$2#动漫$4",
+            //"分类url":"https://www.dandanju.cc/type/{cateId}-{catePg}.html",
+            "分类url":"https://www.shcgoo.com/typcc_{cateId}-{catePg}.html",
+            "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+
+            "数组":"class=\"link-hover\"&&class=\"video-bg\"",
+            "图片":"data-original=\"&&\"",
+            "标题":"title=\"&&\"",
+            "链接":"href=\"&&\"",
+            
+            "线路二次截取":"8i4wnqjw52&&</ul>",
+            "线路数组":"<li>&&</li>",
+            "线路标题":"</i>&&</li>",//[替换：线路>>]
+
+            "播放数组":"date-val=\"t6jf97ajuq\"&&</ul>",
+            "播放列表":"<li>&&</li>",
+            "播放标题":"title=\"&&\"",
+            
 
             "搜索模式": "1",
-            "搜索url": "https://www.dandanju.cc/search/{wd}----------{catePg}---.html"
-            
+            //"搜索url": "https://www.dandanju.cc/search/{wd}----------{catePg}---.html"
+            "搜索url": "https://www.shcgoo.com/cechi/page/{catePg}/wd/{wd}.html"
            
 }

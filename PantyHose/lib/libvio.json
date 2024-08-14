@@ -1,0 +1,13 @@
+{
+                        "分类url": "https://www.libvio.cc/type/{cateId}-{catePg}.html",
+                        "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
+                        "数组":"stui-vodlist__thumb&&</a>",
+
+                       
+                        "搜索模式":"1",
+                        "搜索url":"https://www.libvio.cc/search/{wd}----------{catePg}---.html"
+
+
+
+
+}

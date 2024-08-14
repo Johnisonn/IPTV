@@ -1,0 +1,14 @@
+{
+    "分类url":"https://dsxys.pro/vodshow/{cateId}-{aera}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "分类":"电影$1#电视剧$2#综艺$3#动画片$50#纪录片$22",
+
+    "二次截取":"class=\"module-items module-poster-items-base \"&&</a></div>",
+    "数组":"<a&&</a>",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    "搜索模式":"1",
+    "搜索url":"https://dsxys.pro/sb/kemksmaksdl7nhZe3c1{wd}-/page/{catePg}.html"
+
+}

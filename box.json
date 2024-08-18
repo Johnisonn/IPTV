@@ -47,6 +47,33 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
+    {
+      "name": "wmdz1(txt)",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/wmdz-6-10.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "wmdz1(m3u)",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/wmdz-6-10.m3u",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "wmdz2",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/wmdz-高质源.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
 
  ///////////////////V4////////////////////   
     {
@@ -85,7 +112,7 @@
       "name": "【小波丁丁蕤】","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
       "api": "csp_DouDou"
     },
-/////////////////////////采集站（搜索不兼容）///////////////////////////
+/////////////////////////采集站（搜索不支持）///////////////////////////
     {
         "key": "豪华","name": "🛒豪华┃采集","type": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,
         "api": "https://hhzyapi.com/api.php/provide/vod",
@@ -231,6 +258,11 @@
         "api":"csp_LiteApple"
     },
     {
+        "key":"zxzj","name":"📡在线┃内置","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
+        "api":"csp_Zxzj",
+        "ext":"https://www.zxzja.com/"
+    },
+    {
         "key":"南瓜","name":"🎃南瓜┃APP","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_NanGua"
     },
@@ -247,11 +279,6 @@
        "api":"csp_AppTT",
        "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
-    {
-        "key":"zxzj","name":"📡在线┃内置","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_Zxzj",
-        "ext":"https://www.zxzja.com/"
-    },
 
 /////////////////////外挂JAR(4)///////////////////////////////
 
@@ -261,7 +288,7 @@
         "jar":"./PantyHose/spider/MoYu.jar"
     },
     {  
-         "key":"csp_Kuaikan","name":"👀快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
+         "key":"csp_Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
         "api":"csp_Kuaikan",
         "jar":"./PantyHose/spider/MoYu.jar"
     },
@@ -271,13 +298,32 @@
         "jar":"./PantyHose/spider/MoYuDanMu.jar"
     },
     {
-        "key": "csp_New6v","name": "🕐六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
+        "key": "csp_New6v","name": "✡️六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_New6v",
         "jar": "./PantyHose/spider/chuanxin.jar",
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(20)///////////////////////////
+//////////////////////////XBPQ(21)///////////////////////////
+
+    {
+        "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/追影.json"
+    },
+    {
+        "key": "knvod","name": "🚹柯南┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/柯南.json"
+    },
+    {
+        "key": "lkvod","name": "🍁来看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "jar": "./PantyHose/spider/HCCX.jar",
+        "ext": "./PantyHose/lib/来看.json"
+    },
     {
         "key": "DSX","name": "🧙师兄┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
@@ -496,27 +542,9 @@
       "key": "Aid","name": "🚑急救┃教学","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
       "api": "csp_FirstAid",
       "style": {"type": "rect","ratio": 3.8}
-    },
-
-
- ///////////////////网盘资源///////////////////////////
-
-    {
-        "key":"csp_XYQHiker_影搜","name":"💠影搜┃搜索","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-        "api":"csp_XYQHiker",
-        "jar":"./PantyHose/spider/chuanxin.jar",
-        "ext":"./PantyHose/lib/影搜.json"
-    },
-    {
-        "key":"夸搜","name":"💠夸搜┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_PanSearch",
-        "ext":{"pan":"quark","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}
-    },
-    {
-        "key":"PanSearch","name":"💠盘Se┃搜索","type":3,"searchable":1,"quickSearch":1,"changeable":0,
-        "api":"csp_PanSearch",
-        "ext":{"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}
     }
+
+
 
 
 

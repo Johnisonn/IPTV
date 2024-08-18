@@ -1,0 +1,13 @@
+{
+        "分类url":"https://lkvod.me/show/{cateId}--{by}---------{year}.html",
+        "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+
+        "数组":"public-list-exp&&public-bg",
+        "图片":"data-src=\"&&\"",
+        "标题":"alt=\"&&\"[替换：封面图>>空]",
+        "链接":"href=\"&&\"",
+
+        "搜索模式":"1",
+        "搜索url":"https://lkvod.me/nk/{wd}----------{catePg}---.html"
+
+}

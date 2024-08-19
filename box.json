@@ -1,6 +1,6 @@
 {
   "spider": "./PantyHose/spider/FTY.jar",
-  "wallpaper": "https://bing.img.run/rand.php",
+  //"wallpaper": "https://bing.img.run/rand.php",
   "lives": [
     {
       "name": "BOBO",
@@ -247,7 +247,7 @@
     },
 
 
-//////////////////////内置接口(7)///////////////////////////////
+//////////////////////内置接口(6)///////////////////////////////
 
     {   
         "key":"可可","name":"🐥可可┃内置","type":3,"timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,
@@ -256,11 +256,6 @@
     {
         "key":"苹果","name":"🍎苹果┃内置","type":3,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_LiteApple"
-    },
-    {
-        "key":"zxzj","name":"📡在线┃内置","type":3,"timeout":15,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_Zxzj",
-        "ext":"https://www.zxzja.com/"
     },
     {
         "key":"南瓜","name":"🎃南瓜┃APP","type": 3,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -280,7 +275,7 @@
        "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
 
-/////////////////////外挂JAR(4)///////////////////////////////
+/////////////////////外挂JAR(3)///////////////////////////////
 
     {   
         "key":"机器人bot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
@@ -292,11 +287,6 @@
         "api":"csp_Kuaikan",
         "jar":"./PantyHose/spider/MoYu.jar"
     },
-    {   
-        "key":"JOJO","name":"🍭JOJO┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,"timeout":10,
-        "api":"csp_Jiohub",
-        "jar":"./PantyHose/spider/MoYuDanMu.jar"
-    },
     {
         "key": "csp_New6v","name": "✡️六葳┃外接","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
         "api": "csp_New6v",
@@ -304,7 +294,7 @@
         "ext": "https://www.xb6v.com"
     },
 
-//////////////////////////XBPQ(21)///////////////////////////
+//////////////////////////XBPQ(20)///////////////////////////
 
     {
         "key": "ZY","name": "🦅追影┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -337,12 +327,6 @@
         "ext": "./NOTES/采集站规则.json"
     },
     {
-        "key": "XXX2X","name": "🌋骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
-        "ext": "./PantyHose/lib/骚火.json"
-    },
-    {
         "key": "rcsdhssc","name": "🎋立播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
@@ -353,12 +337,6 @@
         "api": "csp_XBPQ",
         "jar": "./PantyHose/spider/HCCX.jar",
         "ext": "./PantyHose/lib/freeok.json"
-    },
-    {
-        "key": "sbb","name": "👙素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "jar": "./PantyHose/spider/HCCX.jar",
-        "ext": "./PantyHose/lib/素白.json"
     },
     {
         "key": "Ddys","name": "🍳蛋蛋┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -403,12 +381,6 @@
       "api": "csp_XBPQ",
       "jar":"./PantyHose/spider/HCCX.jar",
       "ext": "./PantyHose/lib/98.json"
-    },
-    {
-      "key": "星辰","name": "☪️星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "jar": "./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/星辰.json"
     },
     {
       "key": "七新","name": "🍵七新┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
